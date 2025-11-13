@@ -80,9 +80,14 @@ The system includes:
 
 ---
 
+Block Diagram
+
+<img width="744" height="427" alt="image" src="https://github.com/user-attachments/assets/03bc0a41-a555-4c34-ac88-e3496c3a00ce" />
+
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="728" height="785" alt="image" src="https://github.com/user-attachments/assets/f2d98e71-d102-455a-b643-25848059cd90" />
+
 
 ---
 
