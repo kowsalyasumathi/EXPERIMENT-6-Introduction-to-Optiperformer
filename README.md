@@ -72,7 +72,7 @@ The system includes:
 
 | S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
 |------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
+|   1  |  70               |        19.595          |      -17.079         |      66.1512 |   0     | 3.807       |   0.5468                            |
 |      |                   |                        |                      |              |         |             |                                     |
 |      |                   |                        |                      |              |         |             |                                     |
 |      |                   |                        |                      |              |         |             |                                     |
@@ -93,4 +93,9 @@ Block Diagram
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Result: The optical communication system was successfully simulated using OptiPerformer. As the fiber length increased from 50 km to 150 km, the following trends were observed:
+
+Received optical power decreased due to fiber attenuation. Q-factor gradually decreased, indicating signal quality degradation.
+Bit Error Rate (BER) increased with distance, showing higher error probability.
+The eye diagram became more closed at longer fiber lengths, confirming dispersion and noise effects.
+Hence, the simulation verified that optical signal performance deteriorates with increasing fiber length due to attenuation and dispersion losses.
