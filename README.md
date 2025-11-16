@@ -86,6 +86,8 @@ Block Diagram
 
 ## Graphs
 
+<img width="1909" height="975" alt="image" src="https://github.com/user-attachments/assets/08a670eb-dabf-4070-a10e-210fffc3a5e7" />
+
 <img width="728" height="785" alt="image" src="https://github.com/user-attachments/assets/f2d98e71-d102-455a-b643-25848059cd90" />
 
 
