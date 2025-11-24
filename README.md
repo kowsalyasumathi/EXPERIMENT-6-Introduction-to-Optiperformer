@@ -64,9 +64,13 @@ Factor” and the “Min BER”.
 |   2  |  70               |        19.595          |      -17.079         |      66.1512 |   0     | 3.807       |   0.5468                            |
 ---
 
-Block Diagram
+## Block Diagram
 
 <img width="744" height="427" alt="image" src="https://github.com/user-attachments/assets/03bc0a41-a555-4c34-ac88-e3496c3a00ce" />
+
+## Model Graph
+
+<img width="1123" height="387" alt="image" src="https://github.com/user-attachments/assets/eb4d5dfd-c161-4bda-8a21-c111a9f08356" />
 
 ## Graphs
 
