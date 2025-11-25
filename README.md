@@ -1,6 +1,7 @@
 
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
+## AIM:
 Download and install OptiPerformer software on your computer and run a sample file.
 
 ## EQUIPMENTS REQUIRED:
@@ -8,7 +9,7 @@ Optisystem Software – OptiPerformer 22.0
 
 ---
 
-## Overview
+## THEORY
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -27,7 +28,7 @@ The system includes:
 
 ---
 
-## Instructions
+## PROCEDURE
 
 
 1. Download and install OptiPerformer from the optiwave.com web site.
@@ -45,7 +46,7 @@ Factor” and the “Min BER”.
 <img width="710" height="387" alt="image" src="https://github.com/user-attachments/assets/c4378f50-a1b1-4698-88ea-e0783a41aa9f" />
 
 ---
-## Report
+## OBSERVATIONS
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
